@@ -62,7 +62,7 @@ Each design pattern solves a specific problem in a certain way. Below are the ty
 
 # Contributing
 
-We welcome contributions! If you have a new pattern, improvement, or a different approach to an existing pattern, feel free to fork the repository and submit a pull request. Let's build the most comprehensive C++ design patterns resource together!
+I welcome contributions! If you have a new pattern, improvement, or a different approach to an existing pattern, feel free to fork the repository and submit a pull request. Let's build the most comprehensive C++ design patterns resource together!
 
 For more detailed explanations and examples of each design pattern, click on the links above to read the individual `README.md` files.
 
