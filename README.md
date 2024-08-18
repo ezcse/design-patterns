@@ -1,4 +1,4 @@
-# Design Patterns Overview
+# Design Patterns in C++
 
 ## What Are Design Patterns?
 
@@ -52,13 +52,17 @@ Each design pattern solves a specific problem in a certain way. Below are the ty
 - **[State Pattern](./State/README.md)**: Allows an object to alter its behavior when its internal state changes.
 - **[Strategy Pattern](./Strategy/README.md)**: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 - **[Template Method Pattern](./TemplateMethod/README.md)**: Defines the steps of an algorithm, allowing subclasses to provide their own implementation for some steps.
-- **[Visitor Pattern](./Visitor/README.md)**: Lets you add further operations to objects without modifying them.
+- **[Visitor Pattern](./Visitor/README.md)**: Let you add further operations to objects without modifying them.
 
 ## Why Use Design Patterns?
 
 - **Consistency**: Ensures that your code follows best practices.
 - **Reusability**: Patterns are designed to solve common problems, so you can reuse them in different parts of your application.
 - **Scalability**: Helps your code adapt to changes and grow as your project evolves.
+
+# Contributing
+
+We welcome contributions! If you have a new pattern, improvement, or a different approach to an existing pattern, feel free to fork the repository and submit a pull request. Let's build the most comprehensive C++ design patterns resource together!
 
 For more detailed explanations and examples of each design pattern, click on the links above to read the individual `README.md` files.
 
