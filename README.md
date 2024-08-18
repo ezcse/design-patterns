@@ -30,7 +30,7 @@ Each design pattern solves a specific problem in a certain way. Below are the ty
 - **[Prototype Pattern](./Prototype-Pattern.md)**: Allows you to create new objects by copying an existing object (a prototype).
 - **[Factory Method Pattern](./Factory-Pattern.md)**: Lets you create objects without specifying the exact class of the object that will be created.
 - **[Abstract Factory Pattern](./AbstractFactory/README.md)**: Lets you create families of related objects without specifying their concrete classes.
-- **[Builder Pattern](./Builder/README.md)**: Helps you construct complex objects step by step, separating the construction process from the final representation.
+- **[Builder Pattern](./Builder-Pattern.md)**: Helps you construct complex objects step by step, separating the construction process from the final representation.
 
 ### Structural Patterns
 
