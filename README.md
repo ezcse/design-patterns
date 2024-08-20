@@ -31,7 +31,7 @@ Each design pattern solves a specific problem in a certain way. Below are the ty
 - **[Singleton Pattern](./Singleton-Pattern.md)**: Ensures there’s only one instance of a class and provides a global access point to it.
 - **[Prototype Pattern](./Prototype-Pattern.md)**: Allows you to create new objects by copying an existing object (a prototype).
 - **[Factory Method Pattern](./Factory-Pattern.md)**: Lets you create objects without specifying the exact class of the object that will be created.
-- **[Abstract Factory Pattern](./AbstractFactory/README.md)**: Lets you create families of related objects without specifying their concrete classes.
+- **[Abstract Factory Pattern](./Abstract-Factory-Pattern.md)**: Lets you create families of related objects without specifying their concrete classes.
 - **[Builder Pattern](./Builder-Pattern.md)**: Helps you construct complex objects step by step, separating the construction process from the final representation.
 
 ### Structural Patterns
