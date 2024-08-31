@@ -36,7 +36,7 @@ Each design pattern solves a specific problem in a certain way. Below are the ty
 
 ### Structural Patterns
 
-- **[Adapter Pattern](./Adapter/README.md)**: Allows two incompatible interfaces to work together.
+- **[Adapter Pattern](./Adapter-Pattern.md)**: Allows two incompatible interfaces to work together.
 - **[Composite Pattern](./Composite/README.md)**: Lets you compose objects into tree structures to represent part-whole hierarchies.
 - **[Decorator Pattern](./Decorator/README.md)**: Adds new responsibilities to an object dynamically, without altering its structure.
 - **[Facade Pattern](./Facade/README.md)**: Provides a simple interface to a complex system, making it easier to use.
